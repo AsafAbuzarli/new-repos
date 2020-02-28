@@ -24,5 +24,6 @@ int main()
        default: printf("OTHER KEY PRESSED: %d %d\n", chr1, chr2);
                 break;
       };
- 	}
+ 	  }
+   printf("New!");
 }
